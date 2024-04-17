@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Imagify - No WEBP for GIF
  * Description: Excludes GIF files from being converted into WEBP
- * Plugin URI:  https://github.com/dimasab/imagify-no-webp-for-gif/
+ * Plugin URI:  https://github.com/dimasab/imagify-no-webp-for-gif/blob/main/imagify-no-webp-for-gif.php
  * Author:      Dimas Adika Bimawan
  */
 
