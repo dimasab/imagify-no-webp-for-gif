@@ -2,7 +2,7 @@
 
 By default, Imagify already excludes animated GIFs from any optimization as they are not supported. However, if you want to exclude all *.gif files from conversion (including non-animated GIFs), you can install a plugin that we’ve created specifically for this purpose.
 
-First, you'll need to download the plugin as a *.zip file. Please follow <a target="_blank" href="https://github.com/dimasab/imagify-no-webp-for-gif/blob/6a0f6b1e12177434b324d37d6c4bee699b5cc7bb/imagify-no-webp-for-gif.zip">this link</a>, click on the three-dot icon on the right side of your screen, and then click **Download**.
+First, you'll need to download the plugin as a *.zip file. Please go to this page <a target="_blank" href="https://github.com/dimasab/imagify-no-webp-for-gif/blob/6a0f6b1e12177434b324d37d6c4bee699b5cc7bb/imagify-no-webp-for-gif.zip">imagify-no-webp-for-gif.zip</a>, click on the three-dot icon on the right side of your screen, and then click **Download**.
 
 <img width="1440" alt="Screenshot 2024-04-18 at 16 11 11" src="https://github.com/dimasab/imagify-no-webp-for-gif/assets/78547184/2a80fee6-a32d-47ff-ae60-1d8a069d9856">
 
