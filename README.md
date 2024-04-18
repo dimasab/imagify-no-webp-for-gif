@@ -7,7 +7,7 @@ First, you'll need to download the plugin as a *.zip file. Please follow <a targ
 <img width="1440" alt="Screenshot 2024-04-18 at 16 11 11" src="https://github.com/dimasab/imagify-no-webp-for-gif/assets/78547184/2a80fee6-a32d-47ff-ae60-1d8a069d9856">
 
 
-After you have finished downloading, please navigate to your WordPress dashboard, click on **Plugins** > **Add New Plugin** > **Upload Plugin**. On this page, select the ZIP file you just downloaded, click **Install Now**.
+After you have finished downloading, please navigate to your WordPress dashboard, click on **Plugins** > **Add New Plugin** > **Upload Plugin**. On this page, select the ZIP file you just downloaded and click **Install Now**.
 
 <img width="722" alt="Screenshot 2024-04-18 at 16 50 48" src="https://github.com/dimasab/imagify-no-webp-for-gif/assets/78547184/aeea1968-94a7-452c-8fb9-4abbd67b7aa9">
 
