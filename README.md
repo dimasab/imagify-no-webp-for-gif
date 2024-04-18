@@ -1,4 +1,4 @@
-<H1>No WebP for GIF</H1>
+#No WebP for GIF
 
 By default, Imagify already excludes animated GIFs from any optimization as they are not supported. However, if you want to exclude all *.gif files from conversion (including non-animated GIFs), you can install a plugin that we’ve created specifically for this purpose.
 
