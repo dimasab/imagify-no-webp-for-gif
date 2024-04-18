@@ -19,7 +19,8 @@ Please note that this will not affect any previously uploaded images. Previous G
 If you wish to re-include GIF files into WebP conversion, simply disable the plugin.
 
 Last tested with:
-
-    Imagify {2.2.1}
-    WordPress {6.5.2}
+<ul>
+    <li>Imagify {2.2.1}</li>
+    <li>WordPress {6.5.2}</li>
+</ul>
 
