@@ -5,7 +5,7 @@
  * Author:      Dimas Adika Bimawan
  */
 
-namespace Imagify\my_custom_plugin;
+namespace ImagifyPlugin\Helpers\skip_gif_webp
 
 // Standard plugin security, keep this line in place.
 defined( 'ABSPATH' ) || die();
