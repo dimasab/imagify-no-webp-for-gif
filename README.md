@@ -17,3 +17,9 @@ After it has finished installing, click on **Activate Plugin**. Once you've acti
 Please note that this will not affect any previously uploaded images. Previous GIF images that have been converted to WebP will remain as they are.
 
 If you wish to re-include GIF files into WebP conversion, simply disable the plugin.
+
+Last tested with:
+
+    Imagify {2.2.1}
+    WordPress {6.5.2}
+
